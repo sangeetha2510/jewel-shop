@@ -2,11 +2,11 @@
 
         <hr>
 
+        <!-- Footer -->
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Company 2013 - Template by <a href="http://maxoffsky.com/">Maks</a>
-                    </p>
+                    <p>Copyright &copy; Jewel Shopping 2017 - Designed and Developed By Sangeetha</p>
                 </div>
             </div>
         </footer>
